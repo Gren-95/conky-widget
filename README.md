@@ -26,3 +26,7 @@ conky -c conky.conf
 
 The storage section expects a drive mounted at `/mnt/Home Drive`, and the CPU section
 lists 6 cores. Change these to match your machine.
+
+## License
+
+[MIT](LICENSE)
