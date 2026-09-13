@@ -3,6 +3,8 @@
 My Conky system-monitor widget from 2021, originally shared on
 [Pastebin](https://pastebin.com/u8vGCLXP) on July 25, 2021.
 
+<img src="screenshot.png" alt="Conky widget showing date, system info, CPU cores, GPU, top processes, memory and storage" width="317">
+
 It shows the date, system info (OS, kernel, GNOME version, uptime, CPU, GPU, RAM),
 per-core CPU frequency and load, NVIDIA GPU utilization and temperature, top
 processes by CPU and memory, and disk usage.
